@@ -10,7 +10,7 @@ Para que o _script_ seja executado, primeiramente deve-se logar como _root_.
 Primeiro devem ser configuradas as permissões do arquivo. Isto pode ser feito executando o seguinte comando no terminal:
 
 ```shell script
-chmod +x infra_como_codigo.sh 
+chmod +x IaC.sh 
 ```
 
 ## Execução
